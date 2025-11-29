@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-telegram-bot>=20.0
+httpx
+openai
+beautifulsoup4
+lxml
+langdetect
